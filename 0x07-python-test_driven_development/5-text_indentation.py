@@ -28,3 +28,4 @@ def text_indentation(text):
         if idx == len(text) - 1:
             tmp_str = text[fst_idx:]
             print(tmp_str.strip())
+
