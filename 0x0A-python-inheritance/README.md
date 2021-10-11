@@ -1,0 +1,1 @@
+This project is majored on python inheritance 
